@@ -246,7 +246,7 @@
   },
   {
     "id": "e_fly_wings_movement",
-    "name_es": "Vuelo de Mosca",
+    "name_es": "Vuelo aves",
     "name_en": "Fly Wings",
     "category": "EFFECT",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_fly_wings_movement.ogg"
@@ -484,7 +484,7 @@
   },
   {
     "id": "e_ambience_creepy",
-    "name_es": "Efecto Tétrico",
+    "name_es": "Efecto Creepy",
     "name_en": "Creepy Effect",
     "category": "EFFECT",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_ambience_creepy.ogg"
@@ -554,15 +554,15 @@
   },
   {
     "id": "e_footsteps_g",
-    "name_es": "Pasos Fantasma",
-    "name_en": "Ghost Footsteps",
+    "name_es": "Pasos charco sangre",
+    "name_en": "Blood Footsteps",
     "category": "EFFECT",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_footsteps_g.ogg"
   },
   {
     "id": "e_footsteps_g1",
-    "name_es": "Pasos Fantasma 1",
-    "name_en": "Ghost Footsteps 1",
+    "name_es": "Pasos charco sangre 1",
+    "name_en": "Blood Footsteps 1",
     "category": "EFFECT",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_footsteps_g1.ogg"
   },
@@ -575,29 +575,29 @@
   },
   {
     "id": "l_ambience_creepy",
-    "name_es": "Ambiente Tétrico",
+    "name_es": "Ambiente Creepy",
     "name_en": "Creepy Ambience",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_creepy.ogg"
   },
   {
     "id": "l_ambience_creepy1",
-    "name_es": "Ambiente Tétrico 1",
+    "name_es": "Ambiente Creepy 1",
     "name_en": "Creepy Ambience 1",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_creepy1.ogg"
   },
   {
     "id": "l_ambience_creepy_cavern",
-    "name_es": "Caverna Tétrica",
+    "name_es": "Caverna Creepy",
     "name_en": "Creepy Cavern",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_creepy_cavern.flac"
   },
   {
     "id": "l_ambience_dark_industrial",
-    "name_es": "Industrial Oscuro",
-    "name_en": "Dark Industrial",
+    "name_es": "Amb. Industrial Oscuro",
+    "name_en": "Dark Industrial Amb.",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_dark_industrial.flac"
   },
@@ -1289,8 +1289,8 @@
   },
   {
     "id": "l_full_mix",
-    "name_es": "Mezcla Completa",
-    "name_en": "Full Mix",
+    "name_es": "Industrial Mix",
+    "name_en": "Industrial Mix ",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_full_mix.ogg"
   },
@@ -1324,15 +1324,15 @@
   },
   {
     "id": "l_watch",
-    "name_es": "Reloj de Pulsera",
-    "name_en": "Wrist Watch",
+    "name_es": "Reloj",
+    "name_en": "Watch",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_watch.ogg"
   },
   {
     "id": "l_watch1",
-    "name_es": "Reloj de Pulsera 1",
-    "name_en": "Wrist Watch 1",
+    "name_es": "Reloj 1",
+    "name_en": "Watch 1",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_watch1.ogg"
   },
