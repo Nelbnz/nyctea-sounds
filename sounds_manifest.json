@@ -1,1 +1,1773 @@
-
+[
+  {
+    "id": "l_ambience_forest",
+    "name_es": "Ambiente de Bosque",
+    "name_en": "Forest Ambience",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_naturales/l_ambience_forest.ogg"
+  },
+  {
+    "id": "l_ambience_forest_crickets_birds",
+    "name_es": "Bosque: Grillos y Aves",
+    "name_en": "Forest: Crickets & Birds",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_naturales/l_ambience_forest_crickets_birds.ogg"
+  },
+  {
+    "id": "l_ambience_insect",
+    "name_es": "Insectos Naturales",
+    "name_en": "Natural Insects",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_naturales/l_ambience_insect.ogg"
+  },
+  {
+    "id": "l_ambience_insects_and_birds1",
+    "name_es": "Insectos y Aves 1",
+    "name_en": "Insects and Birds 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_naturales/l_ambience_insects_and_birds1.ogg"
+  },
+  {
+    "id": "l_ambience_insect_and_birds2",
+    "name_es": "Insectos y Aves 2",
+    "name_en": "Insects and Birds 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_naturales/l_ambience_insect_and_birds2.ogg"
+  },
+  {
+    "id": "l_ambience_morning_birds",
+    "name_es": "Aves Mañaneras",
+    "name_en": "Morning Birds",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_naturales/l_ambience_morning_birds.ogg"
+  },
+  {
+    "id": "l_ambience_rural",
+    "name_es": "Ambiente Rural",
+    "name_en": "Rural Ambience",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_naturales/l_ambience_rural.ogg"
+  },
+  {
+    "id": "l_ambience_applause",
+    "name_es": "Aplausos",
+    "name_en": "Applause",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_applause.ogg"
+  },
+  {
+    "id": "l_ambience_big_crowd_talking",
+    "name_es": "Gran Multitud Hablando",
+    "name_en": "Big Crowd Talking",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_big_crowd_talking.ogg"
+  },
+  {
+    "id": "l_ambience_bike_pedalling",
+    "name_es": "Pedaleo de Bicicleta",
+    "name_en": "Bike Pedalling",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_bike_pedalling.ogg"
+  },
+  {
+    "id": "l_ambience_children_audience_talking",
+    "name_es": "Niños Hablando",
+    "name_en": "Children Talking",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_children_audience_talking.ogg"
+  },
+  {
+    "id": "l_ambience_construction",
+    "name_es": "Construcción",
+    "name_en": "Construction",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_construction.ogg"
+  },
+  {
+    "id": "l_ambience_construction1",
+    "name_es": "Construcción 1",
+    "name_en": "Construction 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_construction1.ogg"
+  },
+  {
+    "id": "l_ambience_construction2",
+    "name_es": "Construcción 2",
+    "name_en": "Construction 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_construction2.ogg"
+  },
+  {
+    "id": "l_ambience_crowded",
+    "name_es": "Ambiente Concurrido",
+    "name_en": "Crowded Ambience",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_crowded.ogg"
+  },
+  {
+    "id": "l_ambience_market",
+    "name_es": "Mercado",
+    "name_en": "Market",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_market.ogg"
+  },
+  {
+    "id": "l_ambience_propeller_engine",
+    "name_es": "Motor de Hélice",
+    "name_en": "Propeller Engine",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_propeller_engine.ogg"
+  },
+  {
+    "id": "l_ambience_restaurant_party_crowd",
+    "name_es": "Fiesta en Restaurante",
+    "name_en": "Restaurant Party",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_restaurant_party_crowd.ogg"
+  },
+  {
+    "id": "l_ambience_traffic",
+    "name_es": "Tráfico Urbano",
+    "name_en": "Urban Traffic",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_traffic.ogg"
+  },
+  {
+    "id": "l_ambience_walking_crowd_at_subwaystation",
+    "name_es": "Gente Caminando: Metro",
+    "name_en": "Subway Station Crowd",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_ambience_walking_crowd_at_subwaystation.ogg"
+  },
+  {
+    "id": "l_interior_ambiance_of_a_moving_bus",
+    "name_es": "Interior de Autobús",
+    "name_en": "Moving Bus Interior",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_interior_ambiance_of_a_moving_bus.ogg"
+  },
+  {
+    "id": "l_machining_shop_ambient_noise",
+    "name_es": "Taller Mecánico",
+    "name_en": "Machining Shop",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_machining_shop_ambient_noise.ogg"
+  },
+  {
+    "id": "l_magnetic_ambience",
+    "name_es": "Ambiente Magnético",
+    "name_en": "Magnetic Ambience",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/ambientes/amb_urbanos/l_magnetic_ambience.ogg"
+  },
+  {
+    "id": "e_canaries",
+    "name_es": "Canarios",
+    "name_en": "Canaries",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_canaries.ogg"
+  },
+  {
+    "id": "e_canine_howling",
+    "name_es": "Aullido de Perro",
+    "name_en": "Canine Howling",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_canine_howling.ogg"
+  },
+  {
+    "id": "e_chick_squawks",
+    "name_es": "Pollitos",
+    "name_en": "Chick Squawks",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_chick_squawks.ogg"
+  },
+  {
+    "id": "e_cows",
+    "name_es": "Vacas",
+    "name_en": "Cows",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_cows.ogg"
+  },
+  {
+    "id": "e_cow_moo",
+    "name_es": "Mugido de Vaca",
+    "name_en": "Cow Moo",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_cow_moo.ogg"
+  },
+  {
+    "id": "e_cow_moo1",
+    "name_es": "Mugido de Vaca 1",
+    "name_en": "Cow Moo 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_cow_moo1.ogg"
+  },
+  {
+    "id": "e_crow",
+    "name_es": "Cuervo",
+    "name_en": "Crow",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_crow.ogg"
+  },
+  {
+    "id": "e_dog_distance",
+    "name_es": "Perro a la Distancia",
+    "name_en": "Dog in Distance",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_dog_distance.ogg"
+  },
+  {
+    "id": "e_dog_panting",
+    "name_es": "Perro Jadeando",
+    "name_en": "Dog Panting",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_dog_panting.ogg"
+  },
+  {
+    "id": "e_donkey_scream",
+    "name_es": "Rebuzno de Burro",
+    "name_en": "Donkey Scream",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_donkey_scream.ogg"
+  },
+  {
+    "id": "e_eagle",
+    "name_es": "Águila",
+    "name_en": "Eagle",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_eagle.ogg"
+  },
+  {
+    "id": "e_eagle1",
+    "name_es": "Águila 1",
+    "name_en": "Eagle 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_eagle1.ogg"
+  },
+  {
+    "id": "e_fly_wings_movement",
+    "name_es": "Vuelo de Mosca",
+    "name_en": "Fly Wings",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_fly_wings_movement.ogg"
+  },
+  {
+    "id": "e_goat_baa",
+    "name_es": "Cabra",
+    "name_en": "Goat Baa",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_goat_baa.ogg"
+  },
+  {
+    "id": "e_goose",
+    "name_es": "Ganso",
+    "name_en": "Goose",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_goose.ogg"
+  },
+  {
+    "id": "e_gooses",
+    "name_es": "Gansos",
+    "name_en": "Gooses",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_gooses.ogg"
+  },
+  {
+    "id": "e_horde_of_barking_dogs",
+    "name_es": "Jauría de Perros",
+    "name_en": "Barking Dogs",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_horde_of_barking_dogs.ogg"
+  },
+  {
+    "id": "e_horses_pasture",
+    "name_es": "Caballos en Pastura",
+    "name_en": "Horses Pasture",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_horses_pasture.ogg"
+  },
+  {
+    "id": "e_horse_trot",
+    "name_es": "Trote de Caballo",
+    "name_en": "Horse Trot",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_horse_trot.ogg"
+  },
+  {
+    "id": "e_intense_horse_stallion_neigh",
+    "name_es": "Relincho de Caballo",
+    "name_en": "Horse Neigh",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_intense_horse_stallion_neigh.ogg"
+  },
+  {
+    "id": "e_owl",
+    "name_es": "Búho",
+    "name_en": "Owl",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_owl.ogg"
+  },
+  {
+    "id": "e_owl_in_a_forest",
+    "name_es": "Búho en el Bosque",
+    "name_en": "Owl in Forest",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_owl_in_a_forest.ogg"
+  },
+  {
+    "id": "e_pigs_chatting",
+    "name_es": "Cerdos",
+    "name_en": "Pigs",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_pigs_chatting.ogg"
+  },
+  {
+    "id": "e_pig_drinking",
+    "name_es": "Cerdo Bebiendo",
+    "name_en": "Pig Drinking",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_pig_drinking.ogg"
+  },
+  {
+    "id": "e_rooster",
+    "name_es": "Gallo",
+    "name_en": "Rooster",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_rooster.ogg"
+  },
+  {
+    "id": "e_rooster_crowing_in_the_morning",
+    "name_es": "Gallo Mañanero",
+    "name_en": "Rooster Morning",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_rooster_crowing_in_the_morning.ogg"
+  },
+  {
+    "id": "e_scared_horse_neighing",
+    "name_es": "Caballo Asustado",
+    "name_en": "Scared Horse",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_scared_horse_neighing.ogg"
+  },
+  {
+    "id": "e_sealions",
+    "name_es": "Leones Marinos",
+    "name_en": "Sealions",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_sealions.ogg"
+  },
+  {
+    "id": "e_sheeps",
+    "name_es": "Ovejas",
+    "name_en": "Sheeps",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_sheeps.ogg"
+  },
+  {
+    "id": "e_whale",
+    "name_es": "Ballena",
+    "name_en": "Whale",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_whale.ogg"
+  },
+  {
+    "id": "e_whale1",
+    "name_es": "Ballena 1",
+    "name_en": "Whale 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_whale1.ogg"
+  },
+  {
+    "id": "e_whale2",
+    "name_es": "Ballena 2",
+    "name_en": "Whale 2",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_whale2.ogg"
+  },
+  {
+    "id": "e_wolf",
+    "name_es": "Lobo",
+    "name_en": "Wolf",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_wolf.ogg"
+  },
+  {
+    "id": "e_wolf2",
+    "name_es": "Lobo 2",
+    "name_en": "Wolf 2",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/e_wolf2.ogg"
+  },
+  {
+    "id": "l_buffalos",
+    "name_es": "Búfalos",
+    "name_en": "Buffalos",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_buffalos.ogg"
+  },
+  {
+    "id": "l_cat_purr1",
+    "name_es": "Ronroneo Gato 1",
+    "name_en": "Cat Purr 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_cat_purr1.ogg"
+  },
+  {
+    "id": "l_cat_purr2",
+    "name_es": "Ronroneo Gato 2",
+    "name_en": "Cat Purr 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_cat_purr2.ogg"
+  },
+  {
+    "id": "l_crickets",
+    "name_es": "Grillos",
+    "name_en": "Crickets",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_crickets.ogg"
+  },
+  {
+    "id": "l_honey_bee",
+    "name_es": "Abeja",
+    "name_en": "Honey Bee",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_honey_bee.ogg"
+  },
+  {
+    "id": "l_horse_fast_gallop_in_the_dirt",
+    "name_es": "Galope en Tierra",
+    "name_en": "Gallop on Dirt",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_horse_fast_gallop_in_the_dirt.ogg"
+  },
+  {
+    "id": "l_horse_fast_gallop_on_a_concrete",
+    "name_es": "Galope en Concreto",
+    "name_en": "Gallop on Concrete",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_horse_fast_gallop_on_a_concrete.ogg"
+  },
+  {
+    "id": "l_horse_gallop_on_puddles_in_the_road",
+    "name_es": "Galope en Charcos",
+    "name_en": "Gallop on Puddles",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_horse_gallop_on_puddles_in_the_road.ogg"
+  },
+  {
+    "id": "l_horse_trot_on_concrete",
+    "name_es": "Trote en Concreto",
+    "name_en": "Trot on Concrete",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_horse_trot_on_concrete.ogg"
+  },
+  {
+    "id": "l_horse_trot_on_pavement_street",
+    "name_es": "Trote en Pavimento",
+    "name_en": "Trot on Pavement",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_horse_trot_on_pavement_street.ogg"
+  },
+  {
+    "id": "l_horse_walking_fast_on_concrete",
+    "name_es": "Paso Rápido Caballo",
+    "name_en": "Horse Fast Walk",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/animal/l_horse_walking_fast_on_concrete.ogg"
+  },
+  {
+    "id": "e_ambience_beast_growl",
+    "name_es": "Rugido de Bestia",
+    "name_en": "Beast Growl",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_ambience_beast_growl.ogg"
+  },
+  {
+    "id": "e_ambience_creepy",
+    "name_es": "Efecto Tétrico",
+    "name_en": "Creepy Effect",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_ambience_creepy.ogg"
+  },
+  {
+    "id": "e_animal_eating_meat",
+    "name_es": "Animal Comiendo Carne",
+    "name_en": "Animal Eating Meat",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_animal_eating_meat.ogg"
+  },
+  {
+    "id": "e_bone_breaking",
+    "name_es": "Hueso Rompiéndose",
+    "name_en": "Bone Breaking",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_bone_breaking.ogg"
+  },
+  {
+    "id": "e_dinosaur_eating",
+    "name_es": "Dinosaurio Comiendo",
+    "name_en": "Dinosaur Eating",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_dinosaur_eating.ogg"
+  },
+  {
+    "id": "e_dinosaur_growl",
+    "name_es": "Rugido Dinosaurio",
+    "name_en": "Dinosaur Growl",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_dinosaur_growl.ogg"
+  },
+  {
+    "id": "e_dinosaur_growl1",
+    "name_es": "Rugido Dinosaurio 1",
+    "name_en": "Dinosaur Growl 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_dinosaur_growl1.ogg"
+  },
+  {
+    "id": "e_dinosaur_growl2",
+    "name_es": "Rugido Dinosaurio 2",
+    "name_en": "Dinosaur Growl 2",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_dinosaur_growl2.ogg"
+  },
+  {
+    "id": "e_dinosaur_growl3",
+    "name_es": "Rugido Dinosaurio 3",
+    "name_en": "Dinosaur Growl 3",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_dinosaur_growl3.ogg"
+  },
+  {
+    "id": "e_dragon_growl",
+    "name_es": "Rugido de Dragón",
+    "name_en": "Dragon Growl",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_dragon_growl.ogg"
+  },
+  {
+    "id": "e_dragon_growl1",
+    "name_es": "Rugido de Dragón 1",
+    "name_en": "Dragon Growl 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_dragon_growl1.ogg"
+  },
+  {
+    "id": "e_footsteps_g",
+    "name_es": "Pasos Fantasma",
+    "name_en": "Ghost Footsteps",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_footsteps_g.ogg"
+  },
+  {
+    "id": "e_footsteps_g1",
+    "name_es": "Pasos Fantasma 1",
+    "name_en": "Ghost Footsteps 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_footsteps_g1.ogg"
+  },
+  {
+    "id": "e_respirator_specimen_breathing",
+    "name_es": "Respiración Espécimen",
+    "name_en": "Specimen Breathing",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/e_respirator_specimen_breathing.ogg"
+  },
+  {
+    "id": "l_ambience_creepy",
+    "name_es": "Ambiente Tétrico",
+    "name_en": "Creepy Ambience",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_creepy.ogg"
+  },
+  {
+    "id": "l_ambience_creepy1",
+    "name_es": "Ambiente Tétrico 1",
+    "name_en": "Creepy Ambience 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_creepy1.ogg"
+  },
+  {
+    "id": "l_ambience_creepy_cavern",
+    "name_es": "Caverna Tétrica",
+    "name_en": "Creepy Cavern",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_creepy_cavern.flac"
+  },
+  {
+    "id": "l_ambience_dark_industrial",
+    "name_es": "Industrial Oscuro",
+    "name_en": "Dark Industrial",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_dark_industrial.flac"
+  },
+  {
+    "id": "l_ambience_metal_hits",
+    "name_es": "Golpes Metálicos",
+    "name_en": "Metal Hits",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_ambience_metal_hits.ogg"
+  },
+  {
+    "id": "l_dark_wind_vent",
+    "name_es": "Viento de Ventilación",
+    "name_en": "Dark Vent Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_dark_wind_vent.ogg"
+  },
+  {
+    "id": "l_fan_morgue",
+    "name_es": "Ventilador de Morgue",
+    "name_en": "Morgue Fan",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_fan_morgue.ogg"
+  },
+  {
+    "id": "l_freezer_morgue",
+    "name_es": "Freezer de Morgue",
+    "name_en": "Morgue Freezer",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_freezer_morgue.ogg"
+  },
+  {
+    "id": "l_freezer_morgue_interior",
+    "name_es": "Interior Freezer Morgue",
+    "name_en": "Morgue Freezer Interior",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_freezer_morgue_interior.ogg"
+  },
+  {
+    "id": "l_psycho_glitched",
+    "name_es": "Glitches Psicóticos",
+    "name_en": "Psycho Glitches",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_psycho_glitched.ogg"
+  },
+  {
+    "id": "l_small_bell_metal",
+    "name_es": "Campana Metálica",
+    "name_en": "Small Metal Bell",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_small_bell_metal.ogg"
+  },
+  {
+    "id": "l_space_ship_interior_muted",
+    "name_es": "Interior Nave Espacial",
+    "name_en": "Space Ship Interior",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/creepy/l_space_ship_interior_muted.ogg"
+  },
+  {
+    "id": "l_campfire2",
+    "name_es": "Fogata 2",
+    "name_en": "Campfire 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/fire/l_campfire2.ogg"
+  },
+  {
+    "id": "l_campfire3",
+    "name_es": "Fogata 3",
+    "name_en": "Campfire 3",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/fire/l_campfire3.ogg"
+  },
+  {
+    "id": "l_Campfire4",
+    "name_es": "Fogata 4",
+    "name_en": "Campfire 4",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/fire/l_Campfire4.ogg"
+  },
+  {
+    "id": "l_fireplace1",
+    "name_es": "Hogar a Leña 1",
+    "name_en": "Fireplace 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/fire/l_fireplace1.ogg"
+  },
+  {
+    "id": "e_steps_creature",
+    "name_es": "Pasos de Criatura",
+    "name_en": "Creature Steps",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/e_steps_creature.ogg"
+  },
+  {
+    "id": "e_steps_insect",
+    "name_es": "Pasos de Insecto",
+    "name_en": "Insect Steps",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/e_steps_insect.ogg"
+  },
+  {
+    "id": "l_crunchy_footsteps",
+    "name_es": "Pasos Crujientes",
+    "name_en": "Crunchy Footsteps",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_crunchy_footsteps.ogg"
+  },
+  {
+    "id": "l_crunchy_road_fast_walking",
+    "name_es": "Caminata Rápida Tierra",
+    "name_en": "Fast Walk on Dirt",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_crunchy_road_fast_walking.ogg"
+  },
+  {
+    "id": "l_flip_flops",
+    "name_es": "Chancletas",
+    "name_en": "Flip Flops",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_flip_flops.ogg"
+  },
+  {
+    "id": "l_flip_flops1",
+    "name_es": "Chancletas 1",
+    "name_en": "Flip Flops 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_flip_flops1.ogg"
+  },
+  {
+    "id": "l_footsteps_in_a_tunnel",
+    "name_es": "Pasos en Túnel",
+    "name_en": "Tunnel Footsteps",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_footsteps_in_a_tunnel.ogg"
+  },
+  {
+    "id": "l_footsteps_in_woods",
+    "name_es": "Pasos en el Bosque",
+    "name_en": "Woods Footsteps",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_footsteps_in_woods.ogg"
+  },
+  {
+    "id": "l_footsteps_monster",
+    "name_es": "Pasos de Monstruo",
+    "name_en": "Monster Footsteps",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_footsteps_monster.ogg"
+  },
+  {
+    "id": "l_footsteps_on_hay",
+    "name_es": "Pasos en Heno",
+    "name_en": "Footsteps on Hay",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_footsteps_on_hay.ogg"
+  },
+  {
+    "id": "l_footsteps_on_mattress",
+    "name_es": "Pasos en Colchón",
+    "name_en": "Footsteps on Mattress",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_footsteps_on_mattress.ogg"
+  },
+  {
+    "id": "l_footsteps_on_stones",
+    "name_es": "Pasos en Piedras",
+    "name_en": "Footsteps on Stones",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_footsteps_on_stones.ogg"
+  },
+  {
+    "id": "l_footsteps_on_stones2",
+    "name_es": "Pasos en Piedras 2",
+    "name_en": "Footsteps on Stones 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/footsteps/l_footsteps_on_stones2.ogg"
+  },
+  {
+    "id": "l_water_dripping",
+    "name_es": "Goteo de Agua",
+    "name_en": "Water Dripping",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/fountain/l_water_dripping.ogg"
+  },
+  {
+    "id": "l_water_dripping1",
+    "name_es": "Goteo de Agua 1",
+    "name_en": "Water Dripping 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/fountain/l_water_dripping1.ogg"
+  },
+  {
+    "id": "l_water_dripping2",
+    "name_es": "Goteo de Agua 2",
+    "name_en": "Water Dripping 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/fountain/l_water_dripping2.ogg"
+  },
+  {
+    "id": "e_water_drop_metal",
+    "name_es": "Gota en Metal",
+    "name_en": "Water Drop Metal",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/e_water_drop_metal.ogg"
+  },
+  {
+    "id": "e_water_glass",
+    "name_es": "Agua en Vaso",
+    "name_en": "Water Glass",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/e_water_glass.ogg"
+  },
+  {
+    "id": "l_air_conditioning_running",
+    "name_es": "Aire Acondicionado",
+    "name_en": "Air Conditioning",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/l_air_conditioning_running.ogg"
+  },
+  {
+    "id": "l_freezer1",
+    "name_es": "Freezer 1",
+    "name_en": "Freezer 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/l_freezer1.ogg"
+  },
+  {
+    "id": "l_freezer2",
+    "name_es": "Freezer 2",
+    "name_en": "Freezer 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/l_freezer2.ogg"
+  },
+  {
+    "id": "l_pressing_down_sizzling_burger",
+    "name_es": "Hamburguesa Fritándose",
+    "name_en": "Sizzling Burger",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/l_pressing_down_sizzling_burger.ogg"
+  },
+  {
+    "id": "l_r_clock",
+    "name_es": "Reloj de Pared",
+    "name_en": "Wall Clock",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/l_r_clock.ogg"
+  },
+  {
+    "id": "l_vacuum_cleaner",
+    "name_es": "Aspiradora",
+    "name_en": "Vacuum Cleaner",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/l_vacuum_cleaner.ogg"
+  },
+  {
+    "id": "l_washing_machine",
+    "name_es": "Lavarropas",
+    "name_en": "Washing Machine",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/l_washing_machine.ogg"
+  },
+  {
+    "id": "l_water_boil1",
+    "name_es": "Agua Hirviendo",
+    "name_en": "Water Boiling",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/hogar/l_water_boil1.ogg"
+  },
+  {
+    "id": "l_rain_apartment",
+    "name_es": "Lluvia en Depto.",
+    "name_en": "Apartment Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_apartment.ogg"
+  },
+  {
+    "id": "l_rain_heavy1",
+    "name_es": "Lluvia Intensa",
+    "name_en": "Heavy Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_heavy1.ogg"
+  },
+  {
+    "id": "l_rain_light1",
+    "name_es": "Lluvia Ligera 1",
+    "name_en": "Light Rain 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_light1.ogg"
+  },
+  {
+    "id": "l_rain_light2",
+    "name_es": "Lluvia Ligera 2",
+    "name_en": "Light Rain 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_light2.ogg"
+  },
+  {
+    "id": "l_rain_medium1",
+    "name_es": "Lluvia Media",
+    "name_en": "Medium Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_medium1.ogg"
+  },
+  {
+    "id": "l_rain_paviment",
+    "name_es": "Lluvia en Asfalto",
+    "name_en": "Pavement Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_paviment.ogg"
+  },
+  {
+    "id": "l_rain_roof_car1",
+    "name_es": "Lluvia en Techo Auto 1",
+    "name_en": "Car Roof Rain 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_roof_car1.ogg"
+  },
+  {
+    "id": "l_rain_roof_car2",
+    "name_es": "Lluvia en Techo Auto 2",
+    "name_en": "Car Roof Rain 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_roof_car2.ogg"
+  },
+  {
+    "id": "l_rain_roof_metallic",
+    "name_es": "Techo de Chapa",
+    "name_en": "Metallic Roof Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_roof_metallic.ogg"
+  },
+  {
+    "id": "l_rain_roof_metallic1",
+    "name_es": "Techo de Chapa 1",
+    "name_en": "Metallic Roof 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_roof_metallic1.ogg"
+  },
+  {
+    "id": "l_rain_roof_metallic2",
+    "name_es": "Techo de Chapa 2",
+    "name_en": "Metallic Roof 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_roof_metallic2.ogg"
+  },
+  {
+    "id": "l_rain_roof_metallic3",
+    "name_es": "Techo de Chapa 3",
+    "name_en": "Metallic Roof 3",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_roof_metallic3.ogg"
+  },
+  {
+    "id": "l_rain_roof_plastic",
+    "name_es": "Techo de Plástico",
+    "name_en": "Plastic Roof Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_roof_plastic.ogg"
+  },
+  {
+    "id": "l_rain_sewer",
+    "name_es": "Lluvia en Desagüe",
+    "name_en": "Sewer Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_sewer.ogg"
+  },
+  {
+    "id": "l_rain_soft1",
+    "name_es": "Lluvia Suave 1",
+    "name_en": "Soft Rain 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_soft1.ogg"
+  },
+  {
+    "id": "l_rain_soft2",
+    "name_es": "Lluvia Suave 2",
+    "name_en": "Soft Rain 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_soft2.ogg"
+  },
+  {
+    "id": "l_rain_splashing",
+    "name_es": "Lluvia Salpicando",
+    "name_en": "Splashing Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_splashing.ogg"
+  },
+  {
+    "id": "l_rain_splashing1",
+    "name_es": "Lluvia Salpicando 1",
+    "name_en": "Splashing Rain 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_splashing1.ogg"
+  },
+  {
+    "id": "l_rain_tent_forest",
+    "name_es": "Carpa en el Bosque",
+    "name_en": "Forest Tent Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_tent_forest.ogg"
+  },
+  {
+    "id": "l_rain_window",
+    "name_es": "Tras el Cristal",
+    "name_en": "Behind Window Rain",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_window.ogg"
+  },
+  {
+    "id": "l_rain_window1",
+    "name_es": "Tras el Cristal 1",
+    "name_en": "Behind Window Rain 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/rain/l_rain_window1.ogg"
+  },
+  {
+    "id": "l_storm1",
+    "name_es": "Tormenta 1",
+    "name_en": "Storm 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/storm/l_storm1.ogg"
+  },
+  {
+    "id": "l_storm2",
+    "name_es": "Tormenta 2",
+    "name_en": "Storm 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/storm/l_storm2.ogg"
+  },
+  {
+    "id": "l_storm_bird",
+    "name_es": "Tormenta y Aves",
+    "name_en": "Storm and Birds",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/storm/l_storm_bird.ogg"
+  },
+  {
+    "id": "l_storm_light_bird",
+    "name_es": "Tormenta Ligera Aves",
+    "name_en": "Light Storm Birds",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/storm/l_storm_light_bird.ogg"
+  },
+  {
+    "id": "l_storm_roof",
+    "name_es": "Tormenta en Techo",
+    "name_en": "Storm on Roof",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/storm/l_storm_roof.ogg"
+  },
+  {
+    "id": "l_storm_tent",
+    "name_es": "Tormenta en Carpa",
+    "name_en": "Storm in Tent",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/storm/l_storm_tent.ogg"
+  },
+  {
+    "id": "e_thunder1",
+    "name_es": "Trueno Fuerte",
+    "name_en": "Loud Thunder",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/thunder/e_thunder1.ogg"
+  },
+  {
+    "id": "e_thunder2",
+    "name_es": "Trueno 2",
+    "name_en": "Thunder 2",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/thunder/e_thunder2.ogg"
+  },
+  {
+    "id": "e_thunder_distant",
+    "name_es": "Trueno Distante",
+    "name_en": "Distant Thunder",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/thunder/e_thunder_distant.ogg"
+  },
+  {
+    "id": "e_thunder_distant1",
+    "name_es": "Trueno Distante 1",
+    "name_en": "Distant Thunder 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/thunder/e_thunder_distant1.ogg"
+  },
+  {
+    "id": "e_thunder_distant2",
+    "name_es": "Trueno Distante 2",
+    "name_en": "Distant Thunder 2",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/thunder/e_thunder_distant2.ogg"
+  },
+  {
+    "id": "e_thunder_distant3",
+    "name_es": "Trueno Distante 3",
+    "name_en": "Distant Thunder 3",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/thunder/e_thunder_distant3.ogg"
+  },
+  {
+    "id": "l_swimming",
+    "name_es": "Nadando",
+    "name_en": "Swimming",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/underwater/l_swimming.ogg"
+  },
+  {
+    "id": "l_underwater",
+    "name_es": "Bajo el Agua",
+    "name_en": "Underwater",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/underwater/l_underwater.ogg"
+  },
+  {
+    "id": "l_underwater1",
+    "name_es": "Bajo el Agua 1",
+    "name_en": "Underwater 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/underwater/l_underwater1.ogg"
+  },
+  {
+    "id": "l_underwater2",
+    "name_es": "Bajo el Agua 2",
+    "name_en": "Underwater 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/underwater/l_underwater2.ogg"
+  },
+  {
+    "id": "l_underwater3",
+    "name_es": "Bajo el Agua 3",
+    "name_en": "Underwater 3",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/underwater/l_underwater3.ogg"
+  },
+  {
+    "id": "l_underwater4",
+    "name_es": "Bajo el Agua 4",
+    "name_en": "Underwater 4",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/underwater/l_underwater4.ogg"
+  },
+  {
+    "id": "l_underwater5",
+    "name_es": "Bajo el Agua 5",
+    "name_en": "Underwater 5",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/underwater/l_underwater5.ogg"
+  },
+  {
+    "id": "e_ambulance_siren",
+    "name_es": "Ambulancia",
+    "name_en": "Ambulance Siren",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_ambulance_siren.ogg"
+  },
+  {
+    "id": "e_bubble_wrap",
+    "name_es": "Plástico de Burbujas",
+    "name_en": "Bubble Wrap",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_bubble_wrap.ogg"
+  },
+  {
+    "id": "e_chains",
+    "name_es": "Cadenas",
+    "name_en": "Chains",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_chains.ogg"
+  },
+  {
+    "id": "e_chainsaw",
+    "name_es": "Motosierra",
+    "name_en": "Chainsaw",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_chainsaw.ogg"
+  },
+  {
+    "id": "e_church_bells",
+    "name_es": "Campanas Iglesia",
+    "name_en": "Church Bells",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_church_bells.ogg"
+  },
+  {
+    "id": "e_church_bells1",
+    "name_es": "Campanas Iglesia 1",
+    "name_en": "Church Bells 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_church_bells1.ogg"
+  },
+  {
+    "id": "e_falling_on_ceramic_roof_tile_with_metal",
+    "name_es": "Caída en Cerámica",
+    "name_en": "Falling on Tile",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_falling_on_ceramic_roof_tile_with_metal.ogg"
+  },
+  {
+    "id": "e_fireworks1",
+    "name_es": "Fuegos Artificiales 1",
+    "name_en": "Fireworks 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_fireworks1.ogg"
+  },
+  {
+    "id": "e_fireworks_distant",
+    "name_es": "Fuegos Artificiales Lejanos",
+    "name_en": "Distant Fireworks",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_fireworks_distant.ogg"
+  },
+  {
+    "id": "e_fireworks_distant1",
+    "name_es": "Fuegos Artificiales Lejanos 1",
+    "name_en": "Distant Fireworks 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_fireworks_distant1.ogg"
+  },
+  {
+    "id": "e_gong",
+    "name_es": "Gong Zen",
+    "name_en": "Zen Gong",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_gong.ogg"
+  },
+  {
+    "id": "e_scissors",
+    "name_es": "Tijeras",
+    "name_en": "Scissors",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_scissors.ogg"
+  },
+  {
+    "id": "e_velcro",
+    "name_es": "Velcro",
+    "name_en": "Velcro",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/e_velcro.ogg"
+  },
+  {
+    "id": "l_bass",
+    "name_es": "Bajo Zen",
+    "name_en": "Zen Bass",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_bass.ogg"
+  },
+  {
+    "id": "l_bass2",
+    "name_es": "Bajo Zen 2",
+    "name_en": "Zen Bass 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_bass2.flac"
+  },
+  {
+    "id": "l_bass3",
+    "name_es": "Bajo Zen 3",
+    "name_en": "Zen Bass 3",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_bass3.ogg"
+  },
+  {
+    "id": "l_bubbles_in_glass_bottle_small",
+    "name_es": "Burbujas en Vidrio",
+    "name_en": "Glass Bubbles",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_bubbles_in_glass_bottle_small.ogg"
+  },
+  {
+    "id": "l_ceramic_roof_tile_cracking",
+    "name_es": "Crujido de Cerámica",
+    "name_en": "Ceramic Cracking",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_ceramic_roof_tile_cracking.ogg"
+  },
+  {
+    "id": "l_electric_power",
+    "name_es": "Energía Eléctrica",
+    "name_en": "Electric Power",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_electric_power.ogg"
+  },
+  {
+    "id": "l_electric_sewing_machine",
+    "name_es": "Máquina de Coser",
+    "name_en": "Sewing Machine",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_electric_sewing_machine.ogg"
+  },
+  {
+    "id": "l_full_mix",
+    "name_es": "Mezcla Completa",
+    "name_en": "Full Mix",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_full_mix.ogg"
+  },
+  {
+    "id": "l_oxygen_compressors",
+    "name_es": "Compresor Oxígeno",
+    "name_en": "Oxygen Compressor",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_oxygen_compressors.ogg"
+  },
+  {
+    "id": "l_pipe_blow",
+    "name_es": "Soplido de Tubo",
+    "name_en": "Pipe Blow",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_pipe_blow.ogg"
+  },
+  {
+    "id": "l_vapor",
+    "name_es": "Vapor Constante",
+    "name_en": "Constant Vapor",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_vapor.ogg"
+  },
+  {
+    "id": "l_vibration_chain",
+    "name_es": "Vibración de Cadena",
+    "name_en": "Chain Vibration",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_vibration_chain.ogg"
+  },
+  {
+    "id": "l_watch",
+    "name_es": "Reloj de Pulsera",
+    "name_en": "Wrist Watch",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_watch.ogg"
+  },
+  {
+    "id": "l_watch1",
+    "name_es": "Reloj de Pulsera 1",
+    "name_en": "Wrist Watch 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_watch1.ogg"
+  },
+  {
+    "id": "l_water_cooler",
+    "name_es": "Dispensador de Agua",
+    "name_en": "Water Cooler",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/varios/l_water_cooler.ogg"
+  },
+  {
+    "id": "e_airplane",
+    "name_es": "Avión Despegando",
+    "name_en": "Airplane Takeoff",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_airplane.ogg"
+  },
+  {
+    "id": "e_airplane1",
+    "name_es": "Avión 1",
+    "name_en": "Airplane 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_airplane1.ogg"
+  },
+  {
+    "id": "e_airplane2",
+    "name_es": "Avión 2",
+    "name_en": "Airplane 2",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_airplane2.ogg"
+  },
+  {
+    "id": "e_airplane3",
+    "name_es": "Avión 3",
+    "name_en": "Airplane 3",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_airplane3.ogg"
+  },
+  {
+    "id": "e_boat",
+    "name_es": "Barco",
+    "name_en": "Boat",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_boat.ogg"
+  },
+  {
+    "id": "e_boat1",
+    "name_es": "Barco 1",
+    "name_en": "Boat 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_boat1.ogg"
+  },
+  {
+    "id": "e_boat2",
+    "name_es": "Barco 2",
+    "name_en": "Boat 2",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_boat2.ogg"
+  },
+  {
+    "id": "e_helicopter",
+    "name_es": "Helicóptero",
+    "name_en": "Helicopter",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_helicopter.ogg"
+  },
+  {
+    "id": "e_helicopter1",
+    "name_es": "Helicóptero 1",
+    "name_en": "Helicopter 1",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_helicopter1.ogg"
+  },
+  {
+    "id": "e_helicopter_chinook",
+    "name_es": "Helicóptero Chinook",
+    "name_en": "Chinook Helicopter",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_helicopter_chinook.ogg"
+  },
+  {
+    "id": "e_jet_fly",
+    "name_es": "Vuelo de Jet",
+    "name_en": "Jet Flyover",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_jet_fly.ogg"
+  },
+  {
+    "id": "e_train_electric",
+    "name_es": "Tren Eléctrico",
+    "name_en": "Electric Train",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/e_train_electric.ogg"
+  },
+  {
+    "id": "l_boat",
+    "name_es": "Barco en Movimiento",
+    "name_en": "Moving Boat",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/l_boat.ogg"
+  },
+  {
+    "id": "l_boat_diesel",
+    "name_es": "Barco Diesel",
+    "name_en": "Diesel Boat",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/l_boat_diesel.ogg"
+  },
+  {
+    "id": "l_ship_reactor",
+    "name_es": "Reactor de Buque",
+    "name_en": "Ship Reactor",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/l_ship_reactor.ogg"
+  },
+  {
+    "id": "l_warplane",
+    "name_es": "Avión de Combate",
+    "name_en": "Warplane Ambience",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/vehiculos/l_warplane.ogg"
+  },
+  {
+    "id": "e_rockfall",
+    "name_es": "Derrumbe de Rocas",
+    "name_en": "Rockfall",
+    "category": "EFFECT",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/volcan_mountain/e_rockfall.ogg"
+  },
+  {
+    "id": "l_melting_snow",
+    "name_es": "Nieve Derritiéndose",
+    "name_en": "Melting Snow",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/volcan_mountain/l_melting_snow.ogg"
+  },
+  {
+    "id": "l_snowmelt",
+    "name_es": "Deshielo",
+    "name_en": "Snowmelt",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/volcan_mountain/l_snowmelt.ogg"
+  },
+  {
+    "id": "l_waterfall",
+    "name_es": "Catarata",
+    "name_en": "Waterfall",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterfall/l_waterfall.ogg"
+  },
+  {
+    "id": "l_waterfall1",
+    "name_es": "Catarata 1",
+    "name_en": "Waterfall 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterfall/l_waterfall1.ogg"
+  },
+  {
+    "id": "l_waterfall2",
+    "name_es": "Catarata 2",
+    "name_en": "Waterfall 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterfall/l_waterfall2.ogg"
+  },
+  {
+    "id": "l_waterfall3",
+    "name_es": "Catarata 3",
+    "name_en": "Waterfall 3",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterfall/l_waterfall3.ogg"
+  },
+  {
+    "id": "l_river_rapids_rushing",
+    "name_es": "Río Rápido",
+    "name_en": "River Rapids",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river%20rapids_rushing.ogg"
+  },
+  {
+    "id": "l_river1_birds",
+    "name_es": "Río y Aves 1",
+    "name_en": "River and Birds 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river1_birds.ogg"
+  },
+  {
+    "id": "l_river_birds",
+    "name_es": "Río y Aves",
+    "name_en": "River and Birds",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river_birds.ogg"
+  },
+  {
+    "id": "l_river_waterflow",
+    "name_es": "Flujo de Río",
+    "name_en": "River Waterflow",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river_waterflow.ogg"
+  },
+  {
+    "id": "l_river_waterflow1",
+    "name_es": "Flujo de Río 1",
+    "name_en": "River Waterflow 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river_waterflow1.ogg"
+  },
+  {
+    "id": "l_river_waterflow2",
+    "name_es": "Flujo de Río 2",
+    "name_en": "River Waterflow 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river_waterflow2.ogg"
+  },
+  {
+    "id": "l_river_waterflow3",
+    "name_es": "Flujo de Río 3",
+    "name_en": "River Waterflow 3",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river_waterflow3.ogg"
+  },
+  {
+    "id": "l_river_waterflow4",
+    "name_es": "Flujo de Río 4",
+    "name_en": "River Waterflow 4",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river_waterflow4.ogg"
+  },
+  {
+    "id": "l_river_waterflow5",
+    "name_es": "Flujo de Río 5",
+    "name_en": "River Waterflow 5",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_river_waterflow5.ogg"
+  },
+  {
+    "id": "l_waterflow1",
+    "name_es": "Corriente de Agua 1",
+    "name_en": "Waterflow 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_waterflow1.ogg"
+  },
+  {
+    "id": "l_waterflow2",
+    "name_es": "Corriente de Agua 2",
+    "name_en": "Waterflow 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_waterflow2.ogg"
+  },
+  {
+    "id": "l_waterflow3",
+    "name_es": "Corriente de Agua 3",
+    "name_en": "Waterflow 3",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_waterflow3.ogg"
+  },
+  {
+    "id": "l_waterflow4",
+    "name_es": "Corriente de Agua 4",
+    "name_en": "Waterflow 4",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_waterflow4.ogg"
+  },
+  {
+    "id": "l_waterflow5",
+    "name_es": "Corriente de Agua 5",
+    "name_en": "Waterflow 5",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waterflow/l_waterflow5.ogg"
+  },
+  {
+    "id": "l_cave_trickle",
+    "name_es": "Goteo de Cueva",
+    "name_en": "Cave Trickle",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/water_cave/l_cave_trickle.ogg"
+  },
+  {
+    "id": "l_water_cave1",
+    "name_es": "Cueva de Agua 1",
+    "name_en": "Water Cave 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/water_cave/l_water_cave1.ogg"
+  },
+  {
+    "id": "l_water_cave2",
+    "name_es": "Cueva de Agua 2",
+    "name_en": "Water Cave 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/water_cave/l_water_cave2.ogg"
+  },
+  {
+    "id": "l_waves",
+    "name_es": "Olas",
+    "name_en": "Waves",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves.ogg"
+  },
+  {
+    "id": "l_waves1",
+    "name_es": "Olas 1",
+    "name_en": "Waves 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves1.ogg"
+  },
+  {
+    "id": "l_waves2",
+    "name_es": "Olas 2",
+    "name_en": "Waves 2",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves2.ogg"
+  },
+  {
+    "id": "l_waves3",
+    "name_es": "Olas 3",
+    "name_en": "Waves 3",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves3.ogg"
+  },
+  {
+    "id": "l_waves4",
+    "name_es": "Olas 4",
+    "name_en": "Waves 4",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves4.ogg"
+  },
+  {
+    "id": "l_waves5",
+    "name_es": "Olas 5",
+    "name_en": "Waves 5",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves5.ogg"
+  },
+  {
+    "id": "l_waves_big",
+    "name_es": "Olas Grandes",
+    "name_en": "Big Waves",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves_big.ogg"
+  },
+  {
+    "id": "l_waves_calm",
+    "name_es": "Olas Calmas",
+    "name_en": "Calm Waves",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves_calm.ogg"
+  },
+  {
+    "id": "l_waves_medium",
+    "name_es": "Olas Medianas",
+    "name_en": "Medium Waves",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves_medium.ogg"
+  },
+  {
+    "id": "l_waves_medium1",
+    "name_es": "Olas Medianas 1",
+    "name_en": "Medium Waves 1",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves_medium1.ogg"
+  },
+  {
+    "id": "l_waves_small",
+    "name_es": "Olas Pequeñas",
+    "name_en": "Small Waves",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves_small.ogg"
+  },
+  {
+    "id": "l_waves_soft1",
+    "name_es": "Olas Suaves",
+    "name_en": "Soft Waves",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/waves/l_waves_soft1.ogg"
+  },
+  {
+    "id": "l_wind_artic",
+    "name_es": "Viento Ártico",
+    "name_en": "Arctic Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_artic.ogg"
+  },
+  {
+    "id": "l_wind_chimney",
+    "name_es": "Viento en Chimenea",
+    "name_en": "Chimney Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_chimney.ogg"
+  },
+  {
+    "id": "l_wind_desert",
+    "name_es": "Viento del Desierto",
+    "name_en": "Desert Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_desert.ogg"
+  },
+  {
+    "id": "l_wind_interior",
+    "name_es": "Viento Interior",
+    "name_en": "Interior Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_interior.flac"
+  },
+  {
+    "id": "l_wind_interior_attic",
+    "name_es": "Viento en Ático",
+    "name_en": "Attic Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_interior_attic.ogg"
+  },
+  {
+    "id": "l_wind_large_metal_box",
+    "name_es": "Viento en Contenedor",
+    "name_en": "Metal Box Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_large_metal_box.ogg"
+  },
+  {
+    "id": "l_wind_mountains",
+    "name_es": "Viento de Montaña",
+    "name_en": "Mountain Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_mountains.ogg"
+  },
+  {
+    "id": "l_wind_sandbeach",
+    "name_es": "Viento en la Playa",
+    "name_en": "Beach Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_sandbeach.ogg"
+  },
+  {
+    "id": "l_wind_storm",
+    "name_es": "Viento de Tormenta",
+    "name_en": "Storm Wind",
+    "category": "LOOP",
+    "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/wind/l_wind_storm.ogg"
+  }
+]
