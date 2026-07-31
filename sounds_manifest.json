@@ -1,70 +1,70 @@
 [
   {
     "id": "l_ambience_forest",
-    "name_es": "Ambiente de Bosque",
+    "name_es": "L-Amb. Bosque",
     "name_en": "Forest Ambience",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_naturales/l_ambience_forest.ogg"
   },
   {
     "id": "l_ambience_forest_crickets_birds",
-    "name_es": "Bosque: Grillos y Aves",
+    "name_es": "L-Amb. Grillos y Aves",
     "name_en": "Forest: Crickets & Birds",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_naturales/l_ambience_forest_crickets_birds.ogg"
   },
   {
     "id": "l_ambience_insect",
-    "name_es": "Insectos Naturales",
+    "name_es": "L-Insectos",
     "name_en": "Natural Insects",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_naturales/l_ambience_insect.ogg"
   },
   {
     "id": "l_ambience_insects_and_birds1",
-    "name_es": "Insectos y Aves 1",
+    "name_es": "L-Insectos/Aves 1",
     "name_en": "Insects and Birds 1",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_naturales/l_ambience_insects_and_birds1.ogg"
   },
   {
     "id": "l_ambience_insect_and_birds2",
-    "name_es": "Insectos y Aves 2",
+    "name_es": "L-Insectos/Aves 2",
     "name_en": "Insects and Birds 2",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_naturales/l_ambience_insect_and_birds2.ogg"
   },
   {
     "id": "l_ambience_morning_birds",
-    "name_es": "Aves Mañaneras",
+    "name_es": "L-Aves Mañaneras",
     "name_en": "Morning Birds",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_naturales/l_ambience_morning_birds.ogg"
   },
   {
     "id": "l_ambience_rural",
-    "name_es": "Ambiente Rural",
+    "name_es": "L-Amb. Rural",
     "name_en": "Rural Ambience",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_naturales/l_ambience_rural.ogg"
   },
   {
     "id": "l_ambience_applause",
-    "name_es": "Aplausos",
+    "name_es": "L-Aplausos",
     "name_en": "Applause",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_urbanos/l_ambience_applause.ogg"
   },
   {
     "id": "l_ambience_big_crowd_talking",
-    "name_es": "Gran Multitud Hablando",
+    "name_es": "L-Multitud Hablando",
     "name_en": "Big Crowd Talking",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_urbanos/l_ambience_big_crowd_talking.ogg"
   },
   {
     "id": "l_ambience_bike_pedalling",
-    "name_es": "Pedaleo de Bicicleta",
+    "name_es": "L-Pedaleo Bicicleta",
     "name_en": "Bike Pedalling",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_urbanos/l_ambience_bike_pedalling.ogg"
@@ -99,7 +99,7 @@
   },
   {
     "id": "l_ambience_crowded",
-    "name_es": "Ambiente Concurrido",
+    "name_es": "Amb. Concurrido",
     "name_en": "Crowded Ambience",
     "category": "LOOP",
     "audio_url": "https://raw.githubusercontent.com/Nelbnz/nyctea-sounds/main/amb_urbanos/l_ambience_crowded.ogg"
