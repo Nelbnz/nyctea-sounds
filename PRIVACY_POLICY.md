@@ -11,6 +11,9 @@ At Nyctea, we value your privacy. This application is designed to function local
 2. **Device Permissions:** We use Storage permissions to play your local files, Wake Lock to keep audio playing with the screen off, and Notifications for playback controls.
 3. **Advertising:** We use Google AdMob to display ads. They may collect device identifiers to personalize ads.
 4. **Contact:** emnlbnzz2@gmail.com
+  
+### DATA DELETION 
+**EN:** You can delete all your local data (mixes and settings) at any time directly within the app by going to Settings > "Delete all data". For any further requests, contact us at emnlbnzz2@gmail.com.
 
 ---
 
@@ -21,3 +24,6 @@ En Nyctea, valoramos tu privacidad. Esta aplicación está diseñada para funcio
 2. **Permisos del dispositivo:** Usamos permisos de Almacenamiento para reproducir tus archivos locales, Wake Lock para mantener el audio con la pantalla apagada y Notificaciones para los controles.
 3. **Publicidad:** Utilizamos Google AdMob para mostrar anuncios. Ellos pueden recopilar identificadores de dispositivo para personalizar la publicidad.
 4. **Contacto:** emnlbnzz2@gmail.com
+
+### ELIMINACIÓN DE DATOS   
+**ES:** Puedes eliminar todos tus datos locales (mezclas y ajustes) en cualquier momento directamente desde la aplicación en Ajustes > "Borrar todos los datos". Para consultas adicionales, contáctanos en emnlbnzz2@gmail.com.
